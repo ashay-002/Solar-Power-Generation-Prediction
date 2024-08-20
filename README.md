@@ -25,19 +25,19 @@ Train-Validation Split: Dividing the dataset into training and validation sets f
 
 # Model Architecture and Training
 
-DLinear Model
+DLinear Model:
 
 Architecture: A DLinear model optimized for time series forecasting.
 
 Training: The model was trained on the same preprocessed data, focusing on optimizing the time series aspects.
 
-TCM Model
+TCM Model:
 
 Architecture: The Temporal Convolutional Model (TCM) architecture was employed for this project.
 
 Training: This model was trained similarly, with adjustments specific to temporal data.
 
-Hybrid Model
+Hybrid Model:
 
 Architecture: A hybrid approach combining both the TCM and DLinear Models.
 
