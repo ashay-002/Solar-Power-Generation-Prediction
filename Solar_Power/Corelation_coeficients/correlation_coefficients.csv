@@ -1,0 +1,12 @@
+Feature,Corelation Coeficients
+YEAR,0.008226946
+Month,-0.023400714
+Day,-0.00428394
+Hour,0.048069311
+Relative Humidity,-0.728339789
+Temperature,0.563031537
+GHI,0.999847524
+Pressure,-0.144871793
+Precipitable Water,-0.001994356
+Wind Direction,0.408606614
+Wind Speed,-0.060720615
